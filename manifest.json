@@ -11,7 +11,7 @@
     },
     "api": {
         "type": "openapi",
-        "url": "https://YOUR_GIST_OR_SERVER_URL_FOR_OPENAPI_JSON_HERE"
+        "url": "https://raw.githubusercontent.com/aahlawat21/Ankit/refs/heads/main/openapi.json"
     },
     "logo_url": "https://cdn.shopify.com/shopifycloud/web/assets/v1/Shopify_Logo.png",
     "contact_email": "aahlawat@gianttiger.com",
