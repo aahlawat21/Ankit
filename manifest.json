@@ -1,0 +1,19 @@
+{
+    "schema_version": "v1",
+    "name_for_human": "Giant Tiger Shopify Product API",
+    "name_for_model": "giantTigerShopifyProductApi",
+    "description_for_human": "Fetch product SKUs, titles, and images from Giant Tiger's Shopify store.",
+    "description_for_model": "Use this Action to get product SKUs, titles, variants, and images from the Giant Tiger Shopify store.",
+    "auth": {
+        "type": "basic",
+        "authorization_type": "header",
+        "authorization_header": "X-Shopify-Access-Token"
+    },
+    "api": {
+        "type": "openapi",
+        "url": "https://YOUR_GIST_OR_SERVER_URL_FOR_OPENAPI_JSON_HERE"
+    },
+    "logo_url": "https://cdn.shopify.com/shopifycloud/web/assets/v1/Shopify_Logo.png",
+    "contact_email": "aahlawat@gianttiger.com",
+    "legal_info_url": "https://gianttigercanada.myshopify.com/legal"
+}
