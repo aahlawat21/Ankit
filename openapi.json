@@ -4,6 +4,11 @@
         "title": "Giant Tiger Shopify Product API",
         "version": "1.0.0"
     },
+    "servers": [
+        {
+            "url": "https://gianttigercanada.myshopify.com"
+        }
+    ],
     "paths": {
         "/admin/api/2024-04/products.json": {
             "get": {
